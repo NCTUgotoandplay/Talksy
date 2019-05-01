@@ -1,9 +1,9 @@
 {
-  "ROOT_PATH": "/",
-  "HEADER_TITLE": "Talksy",
+  "ROOT_PATH": "/talksy",
+  "HEADER_TITLE": "goto&Play",
   "VERSION": "alpha 2019.5.1.1",
   "DEBUG": true,
-  "NOSERVICE_HOST": "nooxy.org",
+  "NOSERVICE_HOST": "gotoandplay.nctu.edu.tw",
   "NOSERVICE_CONNECT": "WebSocketSecure",
   "REFRESH_ACTIVITY_INTERVAL": 60000,
   "RETRY_INTERVAL": 3000,
