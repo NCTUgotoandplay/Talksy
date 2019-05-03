@@ -1,7 +1,7 @@
 {
   "ROOT_PATH": "/talksy",
   "HEADER_TITLE": "goto&Play",
-  "VERSION": "alpha 2019.5.1.1",
+  "VERSION": "alpha 2019.5.4.1",
   "DEBUG": true,
   "NOSERVICE_HOST": "gotoandplay.nctu.edu.tw",
   "NOSERVICE_CONNECT": "WebSocketSecure",
